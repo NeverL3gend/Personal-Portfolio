@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-container {
+  margin: 0;
+  padding: 0;
+  height: 8000px;
+  width: 100%;
+  border: 2px solid black;
+  background-color: antiquewhite;
+  float: left;
+}
+
+.nav-section {
+  margin: 0;
+  padding: 0;
+  height: 70px;
+  width: 100%;
+  border: 2px solid black;
+  float: left;
+  background-color: antiquewhite;
+}
+
+.main-section {
+  margin: 0;
+  padding: 0;
+  height: 700px;
+  width: 100%;
+  border: 2px solid black;
+  background-color: aquamarine;
+  float: left;
+}
+
+
+.main-section .portrait-section {
+  margin: 0;
+  padding: 0;
+  height: 700px;
+  width: 50%;
+  border: 2px solid black;
+  background-color:aliceblue;
+  float: left;
+}
+
+.main-section .bio-section {
+  margin: 0;
+  padding: 0;
+  height: 700px;
+  width: 50%;
+  border: 2px solid black;
+  background-color: rebeccapurple;
+  float: right;
+}
+
